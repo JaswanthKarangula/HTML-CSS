@@ -1,0 +1,281 @@
+
+
+* {
+
+  margin: 0px;
+
+  padding: 0px;
+
+}
+
+body {
+
+  font-family: Verdana;
+
+  background-color:goldenrod;
+
+  color: black;
+
+}
+
+
+h1 {
+
+  background-color: orangered; 
+
+
+  margin: 10px 0px 0px 0px;
+
+  border: 10px solid blue;
+
+  color: white;
+
+  padding: 10px 300px;
+
+  
+
+}
+
+
+h3 {
+
+  color: black;
+
+  
+
+}
+
+
+div {
+
+  background-color: green;
+
+  color:white;
+
+  margin: 5px 0px 5px 0px;
+
+  padding: 15px 5px;
+
+  border: 10px solid blue;
+
+  /* height: 10px; */
+
+  text-align: center;
+  /* width: 75%; */
+  
+
+}
+
+ .tile{
+
+  background-color: red;
+
+  color:white;
+
+  margin: 5px;
+
+  padding: 15px 5px;
+
+  border: 10px solid yellow;
+
+  height: 10px;
+
+  text-align: center;
+  width: 15.5%;
+  height: 160px;
+  
+  
+
+}
+
+
+ .brick{
+
+  background-color: brown;
+
+  color:white;
+  
+
+  margin: 5px 0px 5px 0px;
+
+  padding: 15px 5px;
+
+  border: 10px solid violet;
+
+  /* height: 10px; */
+
+  text-align: center;
+  width: 75%;
+  
+
+}
+
+
+
+#topics-learnt {
+
+  font-family: "Courier New";
+
+  position: absolute;
+
+  top: 200px;
+
+
+}
+
+
+#title {
+
+  background-color: blue;
+
+  font-family: "Courier New";
+
+  
+
+}
+
+.temp {
+
+  background-color: blue;
+
+  font-family: "Courier New";
+
+  position: absolute;
+
+  top: 300px;
+  
+
+}
+
+.temp1 {
+
+  background-color: blue;
+
+  font-family: "Courier New";
+
+  position: absolute;
+
+  top: 400px;
+  right: 100px;
+  
+
+}
+
+.temp2 {
+
+  background-color: blue;
+
+  font-family: "Courier New";
+
+  position: absolute;
+
+  top: 400px;
+  left: 100px;
+  
+
+}
+
+
+.container {
+
+  
+
+
+  margin-bottom: 100px;
+  width: 40%;
+  height: 450px;
+
+  display: flex;  
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  /* flex-flow: column wrap-reverse;
+  justify-content: flex-start; */
+
+  position: absolute;
+
+  top: 500px;
+
+  right: 0px; 
+
+
+
+}
+
+
+/* File: Styles.css */
+/* 
+#title {
+
+  position: fixed;
+
+  width: 100%;
+
+  color: white;
+
+  background-color: black; 
+
+} 
+*/
+
+
+.container2 {
+
+  
+
+
+  margin-bottom: 100px;
+  width: 50%;
+  /* height: 300px; */
+
+  display: flex;  
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* justify-content: flex-start; */
+  align-items: flex-start;
+
+
+  /* flex-flow: column wrap-reverse;
+  justify-content: flex-start; */
+
+  position: absolute;
+  top: 500px;
+
+  left: 0px;
+
+
+}
+
+
+
+
+.tile3 {
+
+  background-color: #999999;
+
+  margin: 5px; 
+
+  padding: 10px 5px;
+
+  height: 200px;
+
+  width: 10%;
+
+}
+
+
+
+/* File: Styles.css */
+
+#title {
+
+  position: fixed;
+
+  width: 100%;
+
+  /* color: white;
+
+  background-color: black; */
+
+}
