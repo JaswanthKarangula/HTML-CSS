@@ -1,0 +1,134 @@
+]
+
+* {
+
+  margin: 0px;
+
+  padding: 0px;
+
+}
+
+body {
+
+  font-family: Verdana;
+
+  background-color:goldenrod;
+
+  color: black;
+
+}
+
+
+h1 {
+
+  background-color: orangered; 
+
+
+  margin: 100px 0px 0px 0px;
+
+  border: 100px solid blue;
+
+  color: white;
+
+  padding: 10px 300px;
+
+}
+
+
+h3 {
+
+  color: black;
+
+}
+
+
+div {
+
+  background-color: green;
+
+  color:white;
+
+  margin: 5px 0px 5px 0px;
+
+  padding: 15px 5px;
+
+  border: 10px solid blue;
+
+  height: 10px;
+
+  text-align: center;
+  width: 75%;
+  
+
+}
+
+ .tile{
+
+  background-color: red;
+
+  color:white;
+
+  margin: 5px 0px 5px 0px;
+
+  padding: 15px 5px;
+
+  border: 10px solid green;
+
+  height: 10px;
+
+  text-align: center;
+  width: 75%;
+  height: 50px;
+  
+
+}
+
+
+ .brick{
+
+  background-color: brown;
+
+  color:white;
+  
+
+  margin: 5px 0px 5px 0px;
+
+  padding: 15px 5px;
+
+  border: 10px solid violet;
+
+  height: 10px;
+
+  text-align: center;
+  width: 100%;
+  
+
+}
+
+
+
+#topics-learnt {
+
+  font-family: "Courier New";
+
+}
+
+
+#tile1 {
+
+  background-color: blue;
+  
+
+}
+
+
+.container {
+
+
+
+  margin-bottom: 100px;
+  width: 100%;
+  height: 100px;
+
+  display: flex;  
+}
