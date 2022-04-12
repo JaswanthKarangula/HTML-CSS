@@ -54,10 +54,10 @@ div {
 
   border: 10px solid blue;
 
-  height: 10px;
+  /* height: 10px; */
 
   text-align: center;
-  width: 75%;
+  /* width: 75%; */
   
 
 }
@@ -68,7 +68,7 @@ div {
 
   color:white;
 
-  margin: 5px 0px 5px 0px;
+  margin: 5px;
 
   padding: 15px 5px;
 
@@ -77,8 +77,8 @@ div {
   height: 10px;
 
   text-align: center;
-  width: 75%;
-  height: 50px;
+  width: 15.5%;
+  height: 160px;
   
 
 }
@@ -97,10 +97,10 @@ div {
 
   border: 10px solid violet;
 
-  height: 10px;
+  /* height: 10px; */
 
   text-align: center;
-  width: 100%;
+  width: 75%;
   
 
 }
@@ -124,11 +124,61 @@ div {
 
 .container {
 
+  
 
 
   margin-bottom: 100px;
-  width: 100%;
-  height: 100px;
+  width: 40%;
+  height: 450px;
 
   display: flex;  
+  flex-direction: column-reverse;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  /* flex-flow: column wrap-reverse;
+  justify-content: flex-start; */
+
+
 }
+
+.container2 {
+
+  
+
+
+  margin-bottom: 100px;
+  width: 50%;
+  /* height: 300px; */
+
+  display: flex;  
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* justify-content: flex-start; */
+  align-items: flex-start;
+ 
+
+  /* flex-flow: column wrap-reverse;
+  justify-content: flex-start; */
+
+
+}
+
+
+
+
+.tile3 {
+
+  background-color: #999999;
+
+  margin: 5px; 
+
+  padding: 10px 5px;
+
+  height: 200px;
+
+  width: 10%;
+
+}
+
+
